@@ -1,4 +1,4 @@
-# <a href = "https://beautiful-donut-393183.netlify.app" >Netmeds-Clone</a>
+# <a href = "https://beautiful-donut-393183.netlify.app" target="_blank">Netmeds-Clone</a>
 
 # <img src="https://www.netmeds.com/assets/gloryweb/favicon.png" width="25px"/> Netmeds Clone
 
