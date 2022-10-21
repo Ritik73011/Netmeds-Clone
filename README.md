@@ -40,11 +40,11 @@
  
  # 🔹 Landing Page 
  <p>The Homepage of netmeds has various features like login / signup , search bar and  Category Of products that they offer...</p>
- <img src="https://drive.google.com/file/d/1MZDMepHFp08M6TQ-Nn1vpbZ1_N8rKpPA/view?usp=sharing"/>
- <img src="https://drive.google.com/file/d/1PT98CnM-FU_xxT9NBkM3mwI40Qa1-kF3/view?usp=sharing"/>
- <img src="https://drive.google.com/file/d/1abfK2KqcSA67p0S4qtjUEBzQ05NZ0Z3U/view?usp=sharing"/>
- <img src="https://drive.google.com/file/d/1KEcK2jeDq5U_oW8C2FqyjJLt1RMas32c/view?usp=sharing"/>
- <img src="https://drive.google.com/file/d/1OcX_SMWrmaXUzgZSAOMigiF8YW44Mj7y/view"/>
+ <img src="https://lh3.googleusercontent.com/d/1MZDMepHFp08M6TQ-Nn1vpbZ1_N8rKpPA=s220?authuser=0"/>
+ <img src="https://lh3.googleusercontent.com/d/1PT98CnM-FU_xxT9NBkM3mwI40Qa1-kF3=s220?authuser=0"/>
+ <img src="https://lh3.googleusercontent.com/d/1abfK2KqcSA67p0S4qtjUEBzQ05NZ0Z3U=s220?authuser=0"/>
+ <img src="https://lh3.googleusercontent.com/d/1KEcK2jeDq5U_oW8C2FqyjJLt1RMas32c=s220?authuser=0"/>
+ <img src="https://lh3.googleusercontent.com/d/1OcX_SMWrmaXUzgZSAOMigiF8YW44Mj7y=s220?authuser=0"/>
  
  # 🔹 Login / SignUp 
  <p>The Login and signup page is Validated. User can easily login and signup to buy any product</p>
