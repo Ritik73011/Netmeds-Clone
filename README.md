@@ -44,7 +44,7 @@
  <img src="https://drive.google.com/file/d/1PT98CnM-FU_xxT9NBkM3mwI40Qa1-kF3/view?usp=sharing"/>
  <img src="https://drive.google.com/file/d/1abfK2KqcSA67p0S4qtjUEBzQ05NZ0Z3U/view?usp=sharing"/>
  <img src="https://drive.google.com/file/d/1KEcK2jeDq5U_oW8C2FqyjJLt1RMas32c/view?usp=sharing"/>
- <img src="https://drive.google.com/file/d/1OcX_SMWrmaXUzgZSAOMigiF8YW44Mj7y/view?usp=sharing"/>
+ <img src="https://drive.google.com/file/d/1OcX_SMWrmaXUzgZSAOMigiF8YW44Mj7y/view"/>
  
  # 🔹 Login / SignUp 
  <p>The Login and signup page is Validated. User can easily login and signup to buy any product</p>
