@@ -48,23 +48,41 @@
  
  # 🔹 Login / SignUp 
  <p>The Login and signup page is Validated. User can easily login and signup to buy any product</p>
- <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmQCU7GRVik7fSHeKCwMZAYQ42NHtfsVICfmG-uEX_mmczEKGKZ09aGV3eAjPYzl6NqdUqJjeMM=w1920-h972"/>
+ <img width=100% src="https://lh3.googleusercontent.com/d/1EeT0cRwhb0wO6NCrBdPBvxwJrNFXCNv4"/>
+ <img width=100% src="https://lh3.googleusercontent.com/d/1PUBosy9H0TbEuxjVBVJHza59NZwTKoBN"/>
  
  # 🔹 Product Page
  <p>Product Page has various features like filter, sorting and products list</p>
- <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmQK-FR62BJXRWcUmTrgTr34aXYiNAuBQ1A6o362iO7bZWQzjd-wTcTaqToONDEiRBjmjeYn-uA=w1920-h972"/>
+ <img width=100% src="https://lh3.googleusercontent.com/d/1ctVn6BfIDQKmfxAo3xKeC5HWEzoCK_wZ"/>
+ <img width=100% src="https://lh3.googleusercontent.com/d/1SHyVwauoxVyTejjbBJhtpxYhwTwAdpy5"/>
  
  # 🔹 Product Description
- <p>The Homepage of netmeds has various features like login / signup , search bar and  Category Of products that they offer...</p>
- <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmSnZn3Ib24WaDHCLiEzPMcXpRRElCtVPAxr3vEmXTKokFYxUCGJSftHXymr-Ajv3ZuDn7BNMVM=w1920-h972"/>
+ <p>This is the product details page. Here user can see all the details of product and add the product in a cart and also increase or decrease the product quantity.</p>
+<img width=100% src="https://lh3.googleusercontent.com/d/1cQkzYyrssHrMetEiwabbEjtnmx_f33iJ"/>
+ <img width=100% src="https://lh3.googleusercontent.com/d/10I_QFATWTPDeyBKXVKBH6moKqtGJQOy8"/>
  
-  # 🔹 Cart Page
+   # 🔹 Search Page
+ <p>The Homepage of netmeds has various features like search bar here user can search with keywords</p>
+ <img width=100% src="https://lh3.googleusercontent.com/d/13Ftq7xjhGIuDtGSlekQ5r7UEfJbsoBdn"/>
+
+# 🔹 Profile Page
+
+ <p>This Site also have profile features, here user can see profile info:- like name,email,phone no.,and order history</p>
+  <img width=100% src="https://lh3.googleusercontent.com/d/1anwStL80fZoopA2rzuI0I1ygB29mOYNg"/>
+
+# 🔹 Cart Page
+
  <p>The Homepage of netmeds has various features like login / signup , search bar and  Category Of products that they offer...</p>
- <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmSnZn3Ib24WaDHCLiEzPMcXpRRElCtVPAxr3vEmXTKokFYxUCGJSftHXymr-Ajv3ZuDn7BNMVM=w1920-h972"/>
+<img width=100% src="https://lh3.googleusercontent.com/d/19LYaLUjhI6oIpQdwQGj1UsjnkLDxkx85"/>
  
-  # 🔹 Payment Page
+   # 🔹 Checkout Page
  <p>The Homepage of netmeds has various features like login / signup , search bar and  Category Of products that they offer...</p>
- <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmSnZn3Ib24WaDHCLiEzPMcXpRRElCtVPAxr3vEmXTKokFYxUCGJSftHXymr-Ajv3ZuDn7BNMVM=w1920-h972"/>
+<img width=100% src="https://lh3.googleusercontent.com/d/1fG63Xb7gbuiKjK2ryLOnRXmBlTqHo-eh"/>
+
+# 🔹 Payment Page
+
+ <p>The Homepage of netmeds has various features like login / signup , search bar and  Category Of products that they offer...</p>
+<img width=100% src="https://lh3.googleusercontent.com/d/1ietKfeXL5JHBZfPDfypmqAxLoy1zTxCL"/>
  
     
  # <img src="https://cdn-icons-png.flaticon.com/512/1934/1934019.png" width="25px"/> Challenges :
